@@ -1,0 +1,41 @@
+body{
+    background-size:cover;
+}
+
+.song_name{
+width:200px;
+background-color: cornflowerblue;
+}
+
+h1{
+padding: 10px;
+box-shadow: 5px, 5px, 5px, cornflowerblue;
+background-color:white;
+font-size:30px;
+}
+
+#heading{
+    background-color: white;
+}
+
+#note{
+    color:black;
+}
+
+canvas{
+    border-style: solid;
+    border-color:blueviolet;
+    padding:10px;
+}
+
+#app_heading{
+    font-size:30px;
+}
+
+#song_name_title{
+    color:black;
+    background-color: cornflowerblue;
+    width: 150px;
+    height: 50px;
+    font-size:20px;
+}
